@@ -11,9 +11,11 @@ var title = document.querySelector("h1");
 
 if (randomNumber1 === randomNumber2) {
     title.innerHTML = "Draw!";
-} else if (randomNumber1 > randomNumber2) {
+} 
+if (randomNumber1 > randomNumber2) {
     title.innerHTML = "🎉Player 1 Wins!";
-} else if (randomNumber1 < randomNumber2) {
+} 
+if (randomNumber1 < randomNumber2) {
     title.innerHTML = "🎉Player 2 Wins!";
 }
 
