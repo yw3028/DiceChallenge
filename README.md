@@ -1,2 +1,2 @@
-# UdemyDiceChallenge
-Udemy JS Dice Challenge
+# DiceChallenge
+JS Dice Challenge
